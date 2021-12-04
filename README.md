@@ -10,11 +10,10 @@
 <!--- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love blues music, play a little bit on guitar too. Passionate landscape photographer and addicted to Fiction novels.
 
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+### 🛠 &nbsp;Tech Stack & Tool Experience
+<p align="left">
+<code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"> </code>
+</p>
 
+### 👣 &nbsp;Github Stats
 [![Partha's github stats](https://github-readme-stats.vercel.app/api?username=learningPartha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/learningPartha/github-readme-stats)
