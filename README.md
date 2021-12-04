@@ -6,7 +6,11 @@
 - 👯 I’m looking to collaborate on DataScience projects
 - 🤔 I’m looking for help with understanding Machine Learning Algorithm
 - 💬 Ask me about Python, Perl, Java, Pl/Sql
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/partharoychowdhury-117/ , Email: pchowdhury.apple@gmail.com
+- 📫 How to reach me: 
+<p>
+<a href="https://www.linkedin.com/in/partharoychowdhury-117/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="partharoychowdhury" height="30" width="40" /></a>
+<a href = "mailto: pchowdhury.apple@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 <!--- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love blues music, play a little bit on guitar too. Passionate landscape photographer and addicted to Fiction novels.
 
