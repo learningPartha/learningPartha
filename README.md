@@ -17,6 +17,10 @@
 ### 🛠 &nbsp;Tech Stack & Tool Experience
 <p align="left">
 <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"> </code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </code>
+<code> <img height="50" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"> </code>
 </p>
 
 ### 👣 &nbsp;Github Stats
