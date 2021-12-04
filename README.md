@@ -10,4 +10,13 @@
 <!--- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love blues music, play a little bit on guitar too. Passionate landscape photographer and addicted to Fiction novels.
 
+##Languages&Tools##
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
+</p>
+
 [![Partha's github stats](https://github-readme-stats.vercel.app/api?username=learningPartha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/learningPartha/github-readme-stats)
