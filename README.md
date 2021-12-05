@@ -16,17 +16,17 @@
 
 ### 🛠 &nbsp;Tech Stack & Tool Experience
 <p align="left">
-  <code> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"> </code>
-  <code> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
-  <code> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"> </code>
-  <code> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </code>
-  <code> <img height="50" width="50" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"> </code>
-  <code> <img height="50" width="50" src="https://about.gitlab.com/images/devops-tools/veracode-logo.png"> </code>
-  <code> <img height="50" width="50" src="http://jtuts.com/wp-content/uploads/2016/03/spring-tool-suite-project-logo.png"> </code>
-  <code> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg"> </code>
-  <code> <img height="50" width="50" src="https://about.gitlab.com/images/devops-tools/veracode-logo.png"> </code>
-  <code> <img height="50" width="50" src="https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png"> </code>
-  <code> <img height="50" width="50" src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg"> </code>
+  <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/> 
+  <img height="50" width="80" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
+  <img height="50" width="80" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"/>
+  <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+  <img height="50" width="80" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
+  <img height="50" width="80" src="https://about.gitlab.com/images/devops-tools/veracode-logo.png"/>
+  <img height="50" width="80" src="http://jtuts.com/wp-content/uploads/2016/03/spring-tool-suite-project-logo.png"/>
+  <img height="50" width="80" src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg"/>
+  <img height="50" width="80" src="https://zhihuicao.files.wordpress.com/2016/05/pandas.png?w=399&h=207&crop=1"/>
+  <img height="50" width="80" src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg"/>
+  <img height="50" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hHB_okkxDj1Yo_UlNEQLGzxVQWpxzeYEnm1bYL_ca76r2LAtmbaclIFwr58Qu_3cUU&usqp=CAU"/>
 </p>
 
 ### 👣 &nbsp;Github Footprints
