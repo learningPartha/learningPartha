@@ -16,7 +16,8 @@
 
 ### 🛠 &nbsp;Tech Stack & Tool Experience
 <p align="left">
-  <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/> 
+  <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/>
+  <img height="50" width="80" src="https://image.flaticon.com/icons/png/512/919/919827.png"/>
   <img height="50" width="80" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
   <img height="50" width="80" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"/>
   <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
