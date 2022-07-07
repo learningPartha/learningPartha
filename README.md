@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on Vulnerability remediation for a Java Springboot Web application.
-- 🌱 I’m currently learning DataScience using Python and MERN Stack
+- 🌱 I’m currently learning Spring boot microservices and Datascience using python
 - 👯 I’m looking to collaborate on DataScience projects and Website development projects.
 - 🤔 I’m looking for help with understanding Machine Learning Algorithm.
-- 💬 Ask me about Python, Perl, Java, Pl/Sql
+- 💬 Ask me about Springboot, Python, Perl, Java, Pl/Sql
 - 📫 How to reach me: 
 <p>
 <a href="https://www.linkedin.com/in/partharoychowdhury-117/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="partharoychowdhury" height="30" width="40" /></a>
