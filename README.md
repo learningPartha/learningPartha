@@ -17,7 +17,7 @@
 ### 🛠 &nbsp;Tech Stack & Tool Experience
 <p align="left">
   <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/>
-  <img height="50" width="80" src="https://imagej.net/imagej-wiki-static/Developing_ImageJ_in_Eclipse"/>
+  <img height="50" width="80" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"/>
   <img height="50" width="80" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
   <img height="50" width="80" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg"/>
   <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
