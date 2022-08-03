@@ -31,7 +31,7 @@
   </p>
   <p>
   <img height="50" width="80" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100"/>
-  <img height="50" width="80" src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png"/>
+  <img height="50" width="80" src="https://miro.medium.com/max/750/1*qsMH3spHzOErEBvK0-fKWw@2x.jpeg"/>
 </p>
 
 ### 👣 &nbsp;Github Footprints
