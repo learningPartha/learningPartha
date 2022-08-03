@@ -28,7 +28,10 @@
   <img height="50" width="80" src="https://zhihuicao.files.wordpress.com/2016/05/pandas.png?w=399&h=207&crop=1"/>
   <img height="50" width="80" src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg"/>
   <img height="50" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hHB_okkxDj1Yo_UlNEQLGzxVQWpxzeYEnm1bYL_ca76r2LAtmbaclIFwr58Qu_3cUU&usqp=CAU"/>
+  </p>
+  <p>
   <img height="50" width="80" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100"/>
+  <img height="50" width="80" src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png"/>
 </p>
 
 ### 👣 &nbsp;Github Footprints
