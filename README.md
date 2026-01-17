@@ -23,7 +23,7 @@
   <img height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
   <img height="50" width="80" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
   <img height="50" width="80" src="https://about.gitlab.com/images/devops-tools/veracode-logo.png"/>
-  <img height="50" width="80" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+  <img height="50" width="80" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000"/>
   <img height="50" width="80" src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg"/>
   <img height="50" width="80" src="https://zhihuicao.files.wordpress.com/2016/05/pandas.png?w=399&h=207&crop=1"/>
   <img height="50" width="80" src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg"/>
